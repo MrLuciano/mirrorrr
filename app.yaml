@@ -1,4 +1,4 @@
-application: dexapassa2
+application: pega-la-hrd
 version: first
 module: default
 runtime: python27
